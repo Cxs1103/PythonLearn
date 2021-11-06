@@ -1,0 +1,5 @@
+105,sunqi,222
+104,zhaoliu,100
+101,zhangsan,88
+102,lisi,85
+103,wangwu,47

@@ -1,0 +1,18 @@
+Chinese, free, zero starting point, complete example, based on the latest Python 3 version.
+Python is a computer programming language. You may have heard of many popular programming languages, such as the very difficult C language, the very popular java language, the basic language for beginners, the JavaScript language for web programming, and so on.
+What language is Python?
+First, let's popularize the basic knowledge of programming language. Using any programming language to develop programs is to make the computer work, such as downloading an MP3, writing a document, etc. the CPU working in the computer only knows the machine instructions. Therefore, although there are great differences between different programming languages, it has to be "translated" into the machine instructions that the CPU can execute. The amount of code written by different programming languages for the same job is also very different.
+For example, to complete the same task, C needs to write 1000 lines of code, Java only needs to write 100 lines, and python may only need 20 lines.
+So Python is a fairly high-level language.
+You might ask, is it not good to have less code? The cost of less code is the slow running speed. C programs run for 1 second, Java programs may take 2 seconds, and python programs may take 10 seconds.
+Is it that the lower the program, the harder it is to learn, and the higher the program, the simpler it is? On the surface, yes, but in very high abstract computing, advanced python programming is also very difficult to learn. Therefore, high-level programming language is not simple.
+However, for beginners and ordinary tasks, the python language is very simple and easy to use. Even Google is using Python on a large scale, so you don't have to worry that learning will be useless.
+What can I do with Python? You can do daily tasks, such as automatically backing up your MP3; You can make websites. Many famous websites, including youtube, are written by Python; It can be used as the background of online games. The background of many online games is developed by python. In short, I can do a lot of things.
+Of course, python can't do things, such as writing the operating system, which can only be written in C language; When writing mobile applications, you can only use swift / Objective-C (for iPhone) and Java (for Android); Write 3D games, preferably in C or C + +.
+If you are a Xiaobai user, the following conditions are met:
+Can use a computer, but never write a program;
+I still remember the equations and a little algebra in junior high school mathematics;
+Want to change from programming Xiaobai to a professional software architect;
+I can spare half an hour to study every day.
+Don't hesitate, this tutorial is for you!
+are you ready?
