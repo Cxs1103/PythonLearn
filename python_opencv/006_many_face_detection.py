@@ -10,12 +10,14 @@
 # 导入cv模块
 import cv2.cv2 as cv
 
+
 # 人脸检测函数
 def face_detect_demo():
     gary = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     face_detect = cv.CascadeClassifier(
-        'D:/Program Files/Python3.7/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml')
-    face = face_detect.detectMultiScale(gary,1.01,5,0,(100,100),(300,300))
+        'D:/Program Files/Python3.7/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
+    face = face_detect.detectMultiScale(gary, 1.059, 5, 0, (10, 10), (100, 100))  # 但是这个参数只适用于这张照片
+    # face = face_detect.detectMultiScale(gary)  # 默认会有偏差
     for x, y, w, h in face:
         cv.rectangle(img, (x, y), (x + w, y + h), color=(0, 0, 255), thickness=2)
     cv.imshow('result', img)
@@ -23,7 +25,7 @@ def face_detect_demo():
 
 # 读取图片
 # img = cv.imread('./picture/20211107110136.png')
-img = cv.imread('./picture/20211107105519.jpg')
+img = cv.imread('./picture/20211107130231.png')
 
 # 调用检测函数
 face_detect_demo()
