@@ -21,7 +21,7 @@ while (cap.isOpened()):  # 检测摄像头是否开启
     cv.imshow("Capture_Test", Vshow)  # 显示图像
     k = cv.waitKey(1) & 0xFF  # 按键判断
     if k == ord('s'):
-        cv.imwrite('C:/Users/Cxs/PycharmProjects/PythonLearn/python_opencv/' + str(num) + '.name' + '.jpg', Vshow)
+        cv.imwrite('C:/Users/Cxs/PycharmProjects/PythonLearn/python_opencv/datas/pictures/' + str(num) + '.name' + '.jpg', Vshow)
         print("success to save" + str(num) + '.jpg')
         print('-------------------------------')
         num += 1

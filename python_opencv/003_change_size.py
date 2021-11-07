@@ -11,7 +11,7 @@
 import cv2.cv2 as cv
 
 # 读取图片
-img = cv.imread('./picture/20211107110136.png')
+img = cv.imread('./datas/pictures/20211107110136.png')
 
 # 修改图片大小
 resize_img = cv.resize(img, dsize=(600, 375))

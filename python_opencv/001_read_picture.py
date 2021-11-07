@@ -12,7 +12,7 @@
 import cv2 as cv
 
 # 读取图片
-img = cv.imread('./picture/20211107110136.png')
+img = cv.imread('./datas/pictures/20211107110136.png')
 
 # 显示图片
 cv.imshow('read_img',img)

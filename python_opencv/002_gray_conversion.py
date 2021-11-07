@@ -11,7 +11,7 @@
 import cv2.cv2 as cv
 
 # 读取图片
-img = cv.imread('./picture/20211107110136.png')
+img = cv.imread('./datas/pictures/20211107110136.png')
 
 #灰度转换
 gray_img= cv.cvtColor(img,cv.COLOR_BGR2GRAY)
@@ -19,7 +19,7 @@ gray_img= cv.cvtColor(img,cv.COLOR_BGR2GRAY)
 # 显示灰阶图片
 cv.imshow('gray_img',gray_img)
 
-cv.imwrite('./picture/gray_img.jpg',gray_img)
+cv.imwrite('./datas/gray_img.jpg',gray_img)
 
 # 显示图片
 cv.imshow('read_img',img)

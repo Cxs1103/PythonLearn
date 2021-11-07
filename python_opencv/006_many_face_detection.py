@@ -24,8 +24,8 @@ def face_detect_demo():
 
 
 # 读取图片
-# img = cv.imread('./picture/20211107110136.png')
-img = cv.imread('./picture/20211107130231.png')
+# img = cv.imread('./datas/pictures/20211107110136.png')
+img = cv.imread('./datas/pictures/20211107130231.png')
 
 # 调用检测函数
 face_detect_demo()

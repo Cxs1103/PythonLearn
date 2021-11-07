@@ -25,7 +25,7 @@ def face_detect_demo(img):
 cap = cv.VideoCapture(0)
 
 # 读取视频文件
-# cap = cv.VideoCapture('1.mp4')
+# cap = cv.VideoCapture('./datas/video/1.mp4')
 
 # 等待
 while True:
