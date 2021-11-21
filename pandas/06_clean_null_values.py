@@ -53,5 +53,5 @@ print(df)
 df.loc[:, '姓名'] = df['姓名'].fillna(method="ffill")
 print(df)
 
-# 输出处理好的数据到excel中
+# 输出处理好的数据到excel中,index=Flase表示，删除默认生成的序列
 df.to_excel('./datas/student_excel_clean.xlsx', index=False)
