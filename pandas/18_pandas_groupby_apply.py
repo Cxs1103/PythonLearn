@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 '''
-@File  : 18_pandas_groupbu_apply.py
+@File  : 18_pandas_groupby_apply.py
 @Date  : 2021/11/29 22:14
 @Author: Cxs
 @Email: Cxs1103@163.com
