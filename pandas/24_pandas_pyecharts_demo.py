@@ -56,6 +56,7 @@ from pyecharts.charts import Bar
 from pyecharts.render import make_snapshot
 
 # 使用 snapshot-selenium 渲染图片
+# 需要下载chromediver，并放置到python安装目录
 from snapshot_selenium import snapshot
 
 bar = (
