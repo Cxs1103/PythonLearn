@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pandas/06_clean_null_values.py" description="# 筛选出有分数的行" line="34" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daf8fea8-8a69-4bdf-a47a-5d87a92671af" name="Default Changelist" comment="" />
+    <list id="c8176709-60b8-413c-a58e-66a4bbc33f5b" name="Revert &quot;使用python调用钉钉机器人,需要@什么人。填写具体用户&quot;" comment="Revert &quot;使用python调用钉钉机器人,需要@什么人。填写具体用户&quot;&#10;&#10;This reverts commit 50ba5802" />
+    <list id="eca408e1-647c-43b0-8edc-ce0bda9c8e91" name="使用python调用钉钉机器人,发送连接" comment="" />
+    <list id="f6c86ab4-8ecf-4fdc-b338-0bd3bbd3911c" name="使用python调用钉钉机器人,需要@什么人。填写具体用户" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>·</find>
+      <find>\</find>
+      <find>data</find>
+      <find>�</find>
+      <find>1000</find>
+      <find>Mr. Owen Harris</find>
+      <find>Line()</find>
+      <find>plot</find>
+      <find>163.</find>
+      <find>to_html()</find>
+      <find>to_html</find>
+      <find>学生</find>
+      <find>空气质量</find>
+      <find>unique()</find>
+      <find>学生数据表</find>
+      <find>time.time</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+      <replace>datas</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Cxs\PycharmProjects\PythonLearn</dir>
+      <dir>C:\Users\Cxs\PycharmProjects\PythonLearn\pandas</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pandas/07_Error_handling.py" />
+        <option value="$PROJECT_DIR$/pandas/07_error_handling.py" />
+        <option value="$PROJECT_DIR$/pandas/008_sort_data.py" />
+        <option value="$PROJECT_DIR$/pandas/09_string_structure.py" />
+        <option value="$PROJECT_DIR$/pandas/10_pandas_axis.py" />
+        <option value="$PROJECT_DIR$/pandas/11_pandas_index.py" />
+        <option value="$PROJECT_DIR$/pandas/12_pandas_merge.py" />
+        <option value="$PROJECT_DIR$/pandas/13_pandas_concat.py" />
+        <option value="$PROJECT_DIR$/Exercise/Excel/concatExcel/concatExcel.py" />
+        <option value="$PROJECT_DIR$/Exercise/Excel/concatExcel3/concatExcel2.py" />
+        <option value="$PROJECT_DIR$/Exercise/Excel/concatExcel3/concatExcel.py" />
+        <option value="$PROJECT_DIR$/pandas/14_pandas_concat_excel.py" />
+        <option value="$PROJECT_DIR$/pandas/15_pandas_groupby.py" />
+        <option value="$PROJECT_DIR$/pandas/16_pandas_multiIndex.py" />
+        <option value="$PROJECT_DIR$/pandas/17_pandas_map+applymap.py" />
+        <option value="$PROJECT_DIR$/pandas/17_pandas_map_applymap.py" />
+        <option value="$PROJECT_DIR$/pandas/18_pandas_groupbu_apply.py" />
+        <option value="$PROJECT_DIR$/pandas/datas/movielens_1m/movies.dat" />
+        <option value="$PROJECT_DIR$/pandas/19_pandas_stack_pivot.py" />
+        <option value="$PROJECT_DIR$/pandas/20_pandas_apply.py" />
+        <option value="$PROJECT_DIR$/pandas/21_pandas_datetime.py" />
+        <option value="$PROJECT_DIR$/pandas/22_pandas_date_index.py" />
+        <option value="$PROJECT_DIR$/pandas/23_pandas_vlookup.py" />
+        <option value="$PROJECT_DIR$/pandas/24_pandas_pyecharts.py" />
+        <option value="$PROJECT_DIR$/pandas/24_pandas_pyecharts_demo.py" />
+        <option value="$PROJECT_DIR$/pandas/25_pandas_sklearn.py" />
+        <option value="$PROJECT_DIR$/pandas/26_pandas_logs.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.properties" />
+        <option value="$PROJECT_DIR$/pandas/27_pandas_data_features.py" />
+        <option value="$PROJECT_DIR$/pandas/28_pandas_Categorical.py" />
+        <option value="$PROJECT_DIR$/pandas/29_WebFindExcel.py" />
+        <option value="$PROJECT_DIR$/pandas/30_pandas_get_dummies.py" />
+        <option value="$PROJECT_DIR$/pandas/31_pandas_explode.py" />
+        <option value="$PROJECT_DIR$/pandas/31_pandas_html_to_excel.py" />
+        <option value="$PROJECT_DIR$/pandas/datas/read_html/cookie.txt" />
+        <option value="$PROJECT_DIR$/pandas/33_pandas_Ring_ratio.py" />
+        <option value="$PROJECT_DIR$/pandas/34_pandas_sql.py" />
+        <option value="$PROJECT_DIR$/pandas/35_pandas_groupby_count.py" />
+        <option value="$PROJECT_DIR$/pandas/35_pandas_groupby_agg.py" />
+        <option value="$PROJECT_DIR$/pandas/36_pandas_execl_flask.py" />
+        <option value="$PROJECT_DIR$/pandas/36_pandas_excel_flask.py" />
+        <option value="$PROJECT_DIR$/pandas/37_pandas_excel_mysql.py" />
+        <option value="$PROJECT_DIR$/pandas/38_pandas_translates.py" />
+        <option value="$PROJECT_DIR$/pandas/39_pandas_explode.py" />
+        <option value="$PROJECT_DIR$/pandas/40_pandas_groupby_unique.py" />
+        <option value="$PROJECT_DIR$/pandas/41_pandas_histogram.py" />
+        <option value="$PROJECT_DIR$/pandas/42_pandas_split.py" />
+        <option value="$PROJECT_DIR$/pandas/43_pandas_ergodic.py" />
+        <option value="$PROJECT_DIR$/pandas/44_pandas_query.py" />
+        <option value="$PROJECT_DIR$/pandas/45_pandas_merge.py" />
+        <option value="$PROJECT_DIR$/pandas/46_pandas_similar.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="PyCharm Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kubernetes.config" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonLearn" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonLearn" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\pandas\datas\ml-latest-small" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\pandas\datas" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\Exercise" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\python_opencv\datas\video" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\python_opencv\datas\pictures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\pandas" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\Exercise\Excel\concatExcel3" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\Exercise\Excel" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\Exercise\python_send_dingding" />
+      <recent name="C:\Users\Cxs\PycharmProjects\PythonLearn\python_opencv\datas\jm" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.46_pandas_similar">
+    <configuration name="42_pandas_split" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/42_pandas_split.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43_pandas_ergodic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/43_pandas_ergodic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="44_pandas_query" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/44_pandas_query.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="45_pandas_merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/45_pandas_merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="46_pandas_similar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas/46_pandas_similar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.46_pandas_similar" />
+        <item itemvalue="Python.45_pandas_merge" />
+        <item itemvalue="Python.44_pandas_query" />
+        <item itemvalue="Python.43_pandas_ergodic" />
+        <item itemvalue="Python.42_pandas_split" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Cxs\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daf8fea8-8a69-4bdf-a47a-5d87a92671af" name="Default Changelist" comment="" />
+      <changelist id="eca408e1-647c-43b0-8edc-ce0bda9c8e91" name="使用python调用钉钉机器人,发送连接" comment="" />
+      <changelist id="f6c86ab4-8ecf-4fdc-b338-0bd3bbd3911c" name="使用python调用钉钉机器人,需要@什么人。填写具体用户" comment="" />
+      <created>1636199805270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636199805270</updated>
+      <workItem from="1636199806684" duration="22606000" />
+      <workItem from="1636983054314" duration="53025000" />
+      <workItem from="1637587502616" duration="11604000" />
+      <workItem from="1637848173176" duration="8016000" />
+      <workItem from="1637936324658" duration="31386000" />
+      <workItem from="1638081058414" duration="62118000" />
+      <workItem from="1638604621867" duration="77169000" />
+      <workItem from="1640332684525" duration="594000" />
+    </task>
+    <task id="LOCAL-00034" summary="Pandas数据排序">
+      <created>1637491723133</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1637491723133</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Pandas字符串处理.">
+      <created>1637507730940</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1637507730940</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Pandas的axis参数">
+      <created>1637509588139</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1637509588139</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Pandas的索引的用途">
+      <created>1637856844167</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1637856844167</updated>
+    </task>
+    <task id="LOCAL-00038" summary=" Pandas怎样实现DataFrame的Merge">
+      <created>1637942903543</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1637942903543</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Pandas实现数据的合并concat">
+      <created>1637998700618</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1637998700618</updated>
+    </task>
+    <task id="LOCAL-00040" summary="查找符合条件的Excel，保存到新的文件夹中，并且把所有Excel表格合并到一个Excel中，每一个表格是sheet">
+      <created>1638024586992</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1638024586993</updated>
+    </task>
+    <task id="LOCAL-00041" summary="文件更新">
+      <created>1638024601943</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1638024601943</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Pandas批量拆分与合并Excel">
+      <created>1638088975802</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1638088975803</updated>
+    </task>
+    <task id="LOCAL-00043" summary="上传数据文件">
+      <created>1638089033183</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1638089033183</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Pandas怎样实现groupby分组统计">
+      <created>1638098313179</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1638098313179</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Pandas的分层索引MultiIndex">
+      <created>1638111594081</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111594081</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Pandas的数据转换函数map、apply、applymap">
+      <created>1638193751596</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1638193751596</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Pandas怎样对每个分组应用apply函数">
+      <created>1638201103184</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1638201103184</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Pandas的stack和pivot实现数据透视">
+      <created>1638284657727</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1638284657727</updated>
+    </task>
+    <task id="LOCAL-00049" summary="修改文件名">
+      <created>1638285463741</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1638285463741</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Pandas使用apply函数给表格添加多列">
+      <created>1638287127656</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1638287127657</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Pandas怎样快捷方便的处理日期数据">
+      <created>1638368049385</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1638368049385</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Pandas怎么处理日期索引的缺失">
+      <created>1638373824259</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1638373824259</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Pandas怎样实现Excel的vlookup并且在指定列后面输出">
+      <created>1638455777625</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1638455777625</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Pandas怎样结合Pyecharts绘制交互性折线图">
+      <created>1638458827295</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1638458827295</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Pyecharts绘制简单图形">
+      <created>1638463426977</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1638463426977</updated>
+    </task>
+    <task id="LOCAL-00056" summary="添加Chromediver提示">
+      <created>1638463506763</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1638463506763</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Pandas结合Sklearn实现泰坦尼克存活率预测">
+      <created>1638544959370</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1638544959371</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Pandas结合Sklearn实现泰坦尼克存活率预测">
+      <created>1638545013889</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1638545013889</updated>
+    </task>
+    <task id="LOCAL-00059" summary=" Pandas处理分析网站原始访问日志">
+      <created>1638602513164</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1638602513164</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Pandas怎样找出最影响结果的那些特征">
+      <created>1638608530446</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1638608530447</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Pandas的Categorical数据类型可以降低数据存储提升计算速度">
+      <created>1638626006222</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1638626006222</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Python制作网页，查询Excel数据">
+      <created>1638626898432</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1638626898432</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Pandas的get_dummies用于机器学习的特征处理">
+      <created>1638632679706</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1638632679706</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Pandas使用explode实现一行变多行统计">
+      <created>1638685928706</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1638685928706</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Pandas借助Python爬虫读取HTML网页表格存储到Excel文件">
+      <created>1638693264916</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1638693264944</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Pandas借助Python爬虫读取HTML网页表格存储到Excel文件">
+      <created>1638693350436</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1638693350436</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Pandas借助Python爬虫读取HTML网页表格存储到Excel文件">
+      <created>1638693652359</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1638693652359</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Pandas计算同比环比指标的3种方法">
+      <created>1638715387708</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1638715387708</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Pandas和数据库查询语言SQL的对比">
+      <created>1638722047742</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1638722047742</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Pandas实现groupby聚合后不同列数据统计">
+      <created>1638798992291</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1638798992292</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Pandas读取Excel将数据展示在网页上">
+      <created>1638800226413</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1638800226413</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Python使用Pandas将Excel存入MySQL">
+      <created>1638804489716</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1638804489716</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Python批量翻译英语单词">
+      <created>1639199898076</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1639199898077</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Pandas处理Excel - 复杂多列到多行转换">
+      <created>1639206326149</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1639206326149</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Pandas怎样实现groupby聚合后字符串列的合并">
+      <created>1639211072851</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1639211072851</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Pandas读取Excel绘制直方图">
+      <created>1639232584189</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1639232584190</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Pandas读取Excel绘制直方图">
+      <created>1639232594271</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1639232594271</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Pandas处理Excel一列变多列">
+      <created>1639233704467</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1639233704468</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Pandas按行遍历DataFrame的3种方法">
+      <created>1639239822931</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1639239822931</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Pandas查询数据的简便方法df.query">
+      <created>1639290979019</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1639290979019</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Pandas实现模糊匹配Merge数据的方法">
+      <created>1639293716693</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1639293716693</updated>
+    </task>
+    <task id="LOCAL-00082" summary="计算每个学生成绩最相似的10个学生">
+      <created>1639295982546</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1639295982547</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="266518000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Thumbnails" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.33188722" />
+      <window_info anchor="bottom" id="File Transfer" order="10" weight="0.23535791" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.20824295" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="14" weight="0.3286334" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
+      <window_info anchor="right" x="650" y="59" width="619" height="922" id="SciView" maximized="true" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" x="-1813" y="122" width="1696" height="799" id="Run" order="6" type="WINDOWED" weight="0.61993605" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pandas怎样结合Pyecharts绘制交互性折线图" />
+    <MESSAGE value="Pyecharts绘制简单图形" />
+    <MESSAGE value="添加Chromediver提示" />
+    <MESSAGE value="Pandas结合Sklearn实现泰坦尼克存活率预测" />
+    <MESSAGE value=" Pandas处理分析网站原始访问日志" />
+    <MESSAGE value="Pandas怎样找出最影响结果的那些特征" />
+    <MESSAGE value="Pandas的Categorical数据类型可以降低数据存储提升计算速度" />
+    <MESSAGE value="Python制作网页，查询Excel数据" />
+    <MESSAGE value="Pandas的get_dummies用于机器学习的特征处理" />
+    <MESSAGE value="Pandas使用explode实现一行变多行统计" />
+    <MESSAGE value="Pandas借助Python爬虫读取HTML网页表格存储到Excel文件" />
+    <MESSAGE value="Pandas计算同比环比指标的3种方法" />
+    <MESSAGE value="Pandas和数据库查询语言SQL的对比" />
+    <MESSAGE value="Pandas实现groupby聚合后不同列数据统计" />
+    <MESSAGE value="Pandas读取Excel将数据展示在网页上" />
+    <MESSAGE value="Python使用Pandas将Excel存入MySQL" />
+    <MESSAGE value="Python批量翻译英语单词" />
+    <MESSAGE value="Pandas处理Excel - 复杂多列到多行转换" />
+    <MESSAGE value="Pandas怎样实现groupby聚合后字符串列的合并" />
+    <MESSAGE value="Pandas读取Excel绘制直方图" />
+    <MESSAGE value="Pandas处理Excel一列变多列" />
+    <MESSAGE value="Pandas按行遍历DataFrame的3种方法" />
+    <MESSAGE value="Pandas查询数据的简便方法df.query" />
+    <MESSAGE value="Pandas实现模糊匹配Merge数据的方法" />
+    <MESSAGE value="计算每个学生成绩最相似的10个学生" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算每个学生成绩最相似的10个学生" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pandas/11_pandas_index.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearn$11_pandas_index.coverage" NAME="11_pandas_index Coverage Results" MODIFIED="1637856105656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$004_drawing_graphics.coverage" NAME="004_drawing_graphics Coverage Results" MODIFIED="1636257906528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$12_pandas_merge.coverage" NAME="12_pandas_merge Coverage Results" MODIFIED="1637942825728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$33_pandas_Ring_ratio.coverage" NAME="33_pandas_Ring_ratio Coverage Results" MODIFIED="1638698926330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$17_pandas_map_applymap.coverage" NAME="17_pandas_map_applymap Coverage Results" MODIFIED="1638195471515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$15_pandas_groupby.coverage" NAME="15_pandas_groupby Coverage Results" MODIFIED="1638367627901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1637425761345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$35_pandas_groupby_agg.coverage" NAME="35_pandas_groupby_agg Coverage Results" MODIFIED="1638798626378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$24_pandas_pyecharts.coverage" NAME="24_pandas_pyecharts Coverage Results" MODIFIED="1638458984487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$30_pandas_get_dummies.coverage" NAME="30_pandas_get_dummies Coverage Results" MODIFIED="1638631054045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$006_many_face_detection.coverage" NAME="006_many_face_detection Coverage Results" MODIFIED="1636261608239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$python_send_dingding.coverage" NAME="python_send_dingding Coverage Results" MODIFIED="1637169458667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/python_send_dingding" />
+    <SUITE FILE_PATH="coverage/PythonLearn$concatExcel__1_.coverage" NAME="concatExcel (1) Coverage Results" MODIFIED="1637999878449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Excel/concatExcel" />
+    <SUITE FILE_PATH="coverage/PythonLearn$rename_files.coverage" NAME="rename_files Coverage Results" MODIFIED="1636986238841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/rename_files" />
+    <SUITE FILE_PATH="coverage/PythonLearn$35_pandas_groupby_count.coverage" NAME="35_pandas_groupby_count Coverage Results" MODIFIED="1638796715271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$007_video_face_detection.coverage" NAME="007_video_face_detection Coverage Results" MODIFIED="1636267703609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$data_structure.coverage" NAME="data_structure Coverage Results" MODIFIED="1637464587568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$010_face_recognition.coverage" NAME="010_face_recognition Coverage Results" MODIFIED="1636275230549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$34_pandas_sql.coverage" NAME="34_pandas_sql Coverage Results" MODIFIED="1638721683453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$06_null_values.coverage" NAME="06_null_values Coverage Results" MODIFIED="1637487021959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$16_pandas_multiIndex.coverage" NAME="16_pandas_multiIndex Coverage Results" MODIFIED="1638111498870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$25_pandas_sklearn.coverage" NAME="25_pandas_sklearn Coverage Results" MODIFIED="1638541862489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$36_pandas_excel_flask.coverage" NAME="36_pandas_excel_flask Coverage Results" MODIFIED="1638800192350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$005_face_detection.coverage" NAME="005_face_detection Coverage Results" MODIFIED="1636260542731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$008_sort_data.coverage" NAME="008_sort_data Coverage Results" MODIFIED="1637491483455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$26_pandas_logs.coverage" NAME="26_pandas_logs Coverage Results" MODIFIED="1638602206086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$23_pandas_vlookup.coverage" NAME="23_pandas_vlookup Coverage Results" MODIFIED="1638455753622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$002_gray_conversion.coverage" NAME="002_gray_conversion Coverage Results" MODIFIED="1636255108937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$02_data_structure.coverage" NAME="02_data_structure Coverage Results" MODIFIED="1637465680456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$14_pandas_concat_excel.coverage" NAME="14_pandas_concat_excel Coverage Results" MODIFIED="1638088888992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$45_pandas_merge.coverage" NAME="45_pandas_merge Coverage Results" MODIFIED="1639294522988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$21_pandas_datetime.coverage" NAME="21_pandas_datetime Coverage Results" MODIFIED="1638368018914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$rename.coverage" NAME="rename Coverage Results" MODIFIED="1636985985959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/rename" />
+    <SUITE FILE_PATH="coverage/PythonLearn$03_query_datas.coverage" NAME="03_query_datas Coverage Results" MODIFIED="1637477141806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$13_pandas_concat.coverage" NAME="13_pandas_concat Coverage Results" MODIFIED="1637998110432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$27_pandas_data_features.coverage" NAME="27_pandas_data_features Coverage Results" MODIFIED="1638607949882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$09_string_structure.coverage" NAME="09_string_structure Coverage Results" MODIFIED="1637507216133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$28_pandas_Categorical.coverage" NAME="28_pandas_Categorical Coverage Results" MODIFIED="1638625754394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$10_pandas_axis.coverage" NAME="10_pandas_axis Coverage Results" MODIFIED="1637509150821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$41_pandas_histogram.coverage" NAME="41_pandas_histogram Coverage Results" MODIFIED="1639232531333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$42_pandas_split.coverage" NAME="42_pandas_split Coverage Results" MODIFIED="1639233676421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$search_Shanghai.coverage" NAME="search_Shanghai Coverage Results" MODIFIED="1636989912830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/search_Shanghai" />
+    <SUITE FILE_PATH="coverage/PythonLearn$38_pandas_translates.coverage" NAME="38_pandas_translates Coverage Results" MODIFIED="1639199573908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$008_photograph.coverage" NAME="008_photograph Coverage Results" MODIFIED="1636269259392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$python_send_dingding1.coverage" NAME="python_send_dingding1 Coverage Results" MODIFIED="1637169469488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/python_send_dingding" />
+    <SUITE FILE_PATH="coverage/PythonLearn$29_WebFindExcel.coverage" NAME="29_WebFindExcel Coverage Results" MODIFIED="1638626703491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$31_pandas_explode.coverage" NAME="31_pandas_explode Coverage Results" MODIFIED="1638685886491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$22_pandas_date_index.coverage" NAME="22_pandas_date_index Coverage Results" MODIFIED="1638372726535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$07_error_handling.coverage" NAME="07_error_handling Coverage Results" MODIFIED="1637489544948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$20_pandas_apply.coverage" NAME="20_pandas_apply Coverage Results" MODIFIED="1638286705340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$18_pandas_groupbu_apply.coverage" NAME="18_pandas_groupbu_apply Coverage Results" MODIFIED="1638200351213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$37_pandas_excel_mysql.coverage" NAME="37_pandas_excel_mysql Coverage Results" MODIFIED="1638804448427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1636283794697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/send_email" />
+    <SUITE FILE_PATH="coverage/PythonLearn$concatExcel.coverage" NAME="concatExcel Coverage Results" MODIFIED="1638019404885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Excel/concatExcel3" />
+    <SUITE FILE_PATH="coverage/PythonLearn$24_pandas_pyecharts_demo.coverage" NAME="24_pandas_pyecharts_demo Coverage Results" MODIFIED="1638463200247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$19_pandas_stack_pivot.coverage" NAME="19_pandas_stack_pivot Coverage Results" MODIFIED="1638283946468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$40_pandas_groupby_unique.coverage" NAME="40_pandas_groupby_unique Coverage Results" MODIFIED="1639210672793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$003_change_size.coverage" NAME="003_change_size Coverage Results" MODIFIED="1636257124766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$python_taobao_autoby.coverage" NAME="python_taobao_autoby Coverage Results" MODIFIED="1637258903749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/python_to_taobao" />
+    <SUITE FILE_PATH="coverage/PythonLearn$04_insert_new_columns.coverage" NAME="04_insert_new_columns Coverage Results" MODIFIED="1637480489116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$test.coverage" NAME="test Coverage Results" MODIFIED="1636200210996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonLearn$001_read_picture.coverage" NAME="001_read_picture Coverage Results" MODIFIED="1636254238896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$31_pandas_html_to_excel.coverage" NAME="31_pandas_html_to_excel Coverage Results" MODIFIED="1638692187578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$009_training_data.coverage" NAME="009_training_data Coverage Results" MODIFIED="1636274770258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_opencv" />
+    <SUITE FILE_PATH="coverage/PythonLearn$39_pandas_explode.coverage" NAME="39_pandas_explode Coverage Results" MODIFIED="1639206052989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$44_pandas_query.coverage" NAME="44_pandas_query Coverage Results" MODIFIED="1639290917522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$43_pandas_ergodic.coverage" NAME="43_pandas_ergodic Coverage Results" MODIFIED="1639238640844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$concatExcel2.coverage" NAME="concatExcel2 Coverage Results" MODIFIED="1638008858359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/Excel/concatExcel3" />
+    <SUITE FILE_PATH="coverage/PythonLearn$46_pandas_similar.coverage" NAME="46_pandas_similar Coverage Results" MODIFIED="1639295923683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+    <SUITE FILE_PATH="coverage/PythonLearn$create_markdown.coverage" NAME="create_markdown Coverage Results" MODIFIED="1636988357504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercise/create_markdown_template" />
+    <SUITE FILE_PATH="coverage/PythonLearn$05_count_data.coverage" NAME="05_count_data Coverage Results" MODIFIED="1637483541283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pandas/datas/logs/crazyant.net-07-12-2019.txt" />
+    <entry file="file://$PROJECT_DIR$/pandas/25_pandas_sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/logs/crazyant.net-03-12-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/movielens_1m/users.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/09_string_structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="66" column="58" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pyecharts/render/snapshot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python3.7/Lib/site-packages/selenium/webdriver/chromium/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/10_pandas_axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="e#285#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/11_pandas_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#273#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/29_WebFindExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="e#166#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/27_pandas_data_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#270#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/26_pandas_logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2538">
+          <caret line="94" column="4" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="4" />
+          <folding>
+            <element signature="e#288#307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/titanic/titanic_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/30_pandas_get_dummies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="28" selection-start-line="28" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/read_html/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/31_pandas_explode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="e#245#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/ml-latest-small/ratings.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/34_pandas_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="e#402#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_back/python_back_docker_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#185#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_back/python_back_local_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Excel/ExcelWebPivot/ExcelWebPivot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#147#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/WebFindExcel/WebFindExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#166#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/Excel/ExcelToWeb/ExcelToWeb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/23_pandas_vlookup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/36_pandas_excel_flask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="e#177#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_back/python_back__windows_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#183#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/37_pandas_excel_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/English_translate/english_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/English_translate/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#150#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/English_translate/default_blueprint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <folding>
+            <element signature="e#170#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/32_pandas_html_to_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1733">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+          <folding>
+            <element signature="e#362#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/33_pandas_Ring_ratio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/chinese_english/stardict.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/38_pandas_translates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/18_pandas_groupby_apply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/15_pandas_groupby.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="84" column="39" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
+          <folding>
+            <element signature="e#334#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/35_pandas_groupby_agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/40_pandas_groupby_unique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/39_pandas_explode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/datas/boston-house-prices/huosing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3421" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/24_pandas_pyecharts_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/python_send_dingding/python_send_dingding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-478">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/42_pandas_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/41_pandas_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#308#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/43_pandas_ergodic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#176#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/44_pandas_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="67" column="69" selection-start-line="67" selection-start-column="69" selection-end-line="67" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/45_pandas_merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+          <folding>
+            <element signature="e#150#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/46_pandas_similar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/21_pandas_datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1774" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/28_pandas_Categorical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
